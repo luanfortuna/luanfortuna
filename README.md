@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6345ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6e6e6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6345ff&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+LUAN+FORTUNA;Desenvolvedor+.NET+e+Full+Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+LUAN+FORTUNA;Desenvolvedor+.NET+e+Full+Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanfortuna&bg_color=000000&color=6345ff&line=6345ff&point=6345ff&area=true&hide_border=true)](https://github.com/luanfortuna)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanfortuna&bg_color=000000&color=e6e6e6&line=e6e6e6&point=e6e6e6&area=true&hide_border=true)](https://github.com/luanfortuna)
 
 <div align="center">
 <br>
@@ -51,4 +51,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6345ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6e6e6&height=120&section=footer"/>

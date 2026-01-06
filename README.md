@@ -7,11 +7,11 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfortuna&layout=compact&hide_border=true&title_color=ff9545&text_color=ff9545&bg_color=000000" />
 </div>
 
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanfortuna&bg_color=000000&color=ff9545&line=ff9545&point=ff9545&area=true&hide_border=true)](https://github.com/SEU_USUARIO_DO_GITHUB)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanfortuna&bg_color=000000&color=ff9545&line=ff9545&point=ff9545&area=true&hide_border=true)](https://github.com/luanfortuna)
 
 <div align="center">
 <br>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/luanfortuna/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
 </div>

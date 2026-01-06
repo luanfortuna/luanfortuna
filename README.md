@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9545&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+LUAN+FORTUNA;Desenvolvedor+.NET+e+Full+Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luanfortuna&show_icons=true&count_private=true&hide_border=true&title_color=ff9545&icon_color=ff9545&text_color=ff9545&bg_color=000000" alt="Luan Fortuna github stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfortuna&layout=compact&hide_border=true&title_color=ff9545&text_color=ff9545&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luanfortuna&show_icons=true&hide_border=true&title_color=ff9545&icon_color=ff9545&text_color=ff9545&bg_color=000000" alt="Github Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfortuna&layout=compact&hide_border=true&title_color=ff9545&text_color=ff9545&bg_color=000000" alt="Top Langs" />
 </div>
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanfortuna&bg_color=000000&color=ff9545&line=ff9545&point=ff9545&area=true&hide_border=true)](https://github.com/luanfortuna)

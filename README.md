@@ -17,9 +17,13 @@
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120" alt="C#">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET MAUI - MOBILE">
   <img src="https://img.shields.io/badge/Visual%20Basic-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91" alt="Visual Basic">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+  <img src="https://img.shields.io/badge/PIX-Transa%C3%A7%C3%B5es%20Banc%C3%A1rias-000000?style=for-the-badge&logo=pix&logoColor=32BCAD" alt="PIX - Transações Bancárias">
+  <img src="https://img.shields.io/badge/NFe-Atualiza%C3%A7%C3%B5es%20Tribut%C3%A1rias-000000?style=for-the-badge&logo=hubspot&logoColor=FF7A59" alt="NFe - Atualizações Tributárias">
+  <img src="https://img.shields.io/badge/REST-API-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST">
 </div>
 
 ### 🛠 Tools
